@@ -8,44 +8,25 @@ This hackathon is an exciting opportunity for students to dive into the world of
 
 ## Getting Started
 
-Before you begin, make sure you have the following prerequisites installed:
+There are 2 ways to get started with developing your the hackathon:
 
-- Node.js
-- CDK
-- Git
+1. **Local development environment**: Set up your local development environment to build and test your project. Follow the instructions in the [Local Development Environment](https://internetcomputer.org/docs/current/developer-docs/getting-started/install/).
 
-## Prerequisites
+2. **GitPod workspaces**: If you haven't installed the tool locally on your machine or you are having challenges to do so, use GitPod to create a ready-to-code environment for your project. [Watch this video demo](https://youtu.be/Vu_s-s4TxxA) to learn how to use GitPod for your project.
+Get the .gitpod.yml file [here](https://github.com/iamenochchirima/demo/blob/main/.gitpod.yml)
 
-Before diving into the hackathon, ensure you have the following prerequisites installed and set up:
+## Resources
 
-- **Node.js**: A JavaScript runtime built on Chrome's V8 JavaScript engine. [Node.js Official Guide](https://nodejs.org/en/docs/)
-- **TypeScript**: A typed superset of JavaScript that compiles to plain JavaScript. [TypeScript Documentation](https://www.typescriptlang.org/docs/)
-- **Git**: A distributed version control system to track changes in source code during software development. [Git Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
-- **Internet Computer Protocol (ICP) SDK**: Essential tools and libraries for developing on the Internet Computer. Make sure to download and install the SDK to develop and deploy your applications. [ICP SDK Installation Guide](https://sdk.dfinity.org/docs/developers-guide/install-upgrade-remove.html)
+Here is a [hackathon cheat sheet](https://dfinityorg.notion.site/ICP-Hackathon-Cheat-Sheet-b2921239266149de81021412f572351c), with some resources of all levels to help you get started in building your project.
 
-It's important to familiarize yourself with these tools as they form the backbone of your development environment for this hackathon.
-
-
-## Workshop Resources
-
-We've organized several workshops to help you get up to speed with ICP and TypeScript. Here are some materials from those sessions:
-
-1. Introduction to Internet Computer Protocol
-2. Building Decentralized Applications with TypeScript
-3. Advanced ICP Techniques
-
-(Links to workshop materials and recordings)
-
-## Project Submission Guidelines
+## Project developement and Submission Guidelines
 
 To participate in the hackathon, follow these steps:
 
-1. Form a team of 3-5 members.
-2. Fork this repository.
-3. Develop your project in your team's fork.
-4. Submit your project by creating a pull request to this repository before the deadline.
-
-Detailed submission instructions are available [here](#).
+1. You can develop the project as an individual or you can form a team of 3-5 members.
+2. Choose a project idea and create a new repository in one of your team's GitHub account or your personal GitHub account if you are working alone.
+3. Develop your project using Motoko or any other language that can be deployed on the Internet Computer.
+4. Submit your project by filling out this [submission form](https://forms.gle/RvMYtCYnP8tZpLV18)
 
 ## Judging Criteria
 
@@ -66,7 +47,7 @@ We are committed to providing a welcoming and harassment-free experience for eve
 
 ## Support and Community
 
-Got questions? Join our community chat on [Discord](https://discord.com/invite/WtPzY28q) or [Telegram](https://t.me/+yGSEEcANCkQ3MTY8).
+Got questions? Join our community chat on [Telegram](https://t.me/+yGSEEcANCkQ3MTY8) or [Discord](https://discord.com/invite/WtPzY28q).
 
 ---
 
